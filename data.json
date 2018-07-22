@@ -1,0 +1,55 @@
+{
+  "details":{
+    "image":"profile.png",
+    "name":"pradeepthi",
+    "phoneno":"9991234567",
+    "email":"pradeepthi@gmail.com",
+    "address":"SRKR College,Bhimavaram"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+
+    "education":[{
+    "degree":"B.Tech",
+    "institute":"SRKR engineering college",
+    "date":["2016-2020","80"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Aditya college",
+    "date":["2014-2016","97"]
+  },
+  {
+    "degree":" SSC",
+    " institute":"St.Marys",
+    "date":["2013-2014","98"]
+  }],
+"keyskills":[
+  {
+    "title":"Operating Systems",
+    "info":["Windows,linux,unix,dos"]
+
+},
+{
+  "title":"Database",
+  "info":["Sql,Mysql,Oracle"]
+},
+{
+  "title":"language",
+  "info":["c,c++,java"]
+  }],
+  "acheivements":[
+    {
+      "title":"grade:",
+      "info":["Honor role for high Grade."]
+    },
+      {
+        "title":"attendance:",
+        "info":["Perfect attendance awards."]
+      },
+      {
+        "title":"ppt:",
+        "info":["Achieved first prize in ppt."]
+      }]
+}
